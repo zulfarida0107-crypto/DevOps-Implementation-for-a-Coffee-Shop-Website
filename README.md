@@ -18,6 +18,8 @@ A containerized web application infrastructure project demonstrating DevOps prac
 
 [DevOps-Implementation-for-a-Coffee-Shop-Website-Paper (PDF)](./DevOps-Implementation-for-a-Coffee-Shop-Website-Paper.pdf)
 
+[DevOps-Implementation-for-a-Coffee-Shop-Website-Runner (PDF)](./DevOps-Implementation-for-a-Coffee-Shop-Website-Paper-Runner.pdf)
+
 ---
 
 ## 🚀 Infrastructure & DevOps Architecture
